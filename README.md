@@ -6,6 +6,10 @@
 
 > 本說明對應版本:**v0.3**
 
+**📱 用手機掃描這個 QR code,直接開啟本頁:**
+
+<img src="assets/qrcode-download-page.png" width="160" alt="掃描開啟本頁的 QR code">
+
 ---
 
 ## ⚠️ 使用前必看
